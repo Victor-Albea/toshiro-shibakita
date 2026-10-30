@@ -1,4 +1,42 @@
-Docker: Utilização prática no cenário de Microsserviços
-Denilson Bonatti, Instrutor - Digital Innovation One
+# Docker Arquitetura de Microsserviços
 
-Muito se tem falado de containers e consequentemente do Docker no ambiente de desenvolvimento. Mas qual a real função de um container no cenários de microsserviços? Qual a real função e quais exemplos práticos podem ser aplicados no dia a dia? Essas são algumas das questões que serão abordadas de forma prática pelo Expert Instructor Denilson Bonatti nesta Live Coding. IMPORTANTE: Agora nossas Live Codings acontecerão no canal oficial da dio._ no YouTube. Então, já corre lá e ative o lembrete! Pré-requisitos: Conhecimentos básicos em Linux, Docker e AWS.
+Este projeto foi desenvolvido como o desafio final do módulo ministrado pelo instrutor Denilson Bonatti durante o **Bootcamp Santander**
+
+## Objetivo do Desafio 🎯
+
+Replicar e estruturar um cenário real de microsserviços utilizando **Docker**
+
+---
+
+## Ferramentas Utilizadas 🛠️
+
+* **Linux:** 
+* **Docker:**
+* **Docker Compose:** 
+* **AWS:**
+
+---
+
+### Passo a Passo:
+
+1. **Clone este repositório no seu terminal:**
+   ```bash
+   git clone https://github.com
+   ```
+
+2. **Navegue até a pasta do projeto:**
+   ```bash
+   cd NOME_DO_REPOSITORIO
+   ```
+
+3. **Suba toda a estrutura de microsserviços:**
+   ```bash
+   docker compose up -d
+   ```
+
+---
+
+## 👤 Autor
+
+**[Victor-Albea]**
+
